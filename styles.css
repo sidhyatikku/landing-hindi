@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
 
   html {
@@ -126,7 +126,7 @@
     .section-title {
       font-size: 16px;
       color: #A8907A;
-      font-weight: 700;
+      font-weight: 500;
     }
 
     .exp {
@@ -151,7 +151,7 @@
     }
 
     .job {
-      font-weight: 600;
+      font-weight: 500;
     }
 
     .year, .city {
@@ -161,13 +161,13 @@
 
     .title {
       width: 20vw;
-      font-weight: 800;
+      font-weight: 500;
       min-width: 200px;
     }
 
     .title2 {
       width: 50vw;
-      font-weight: 600;
+      font-weight: 500;
     }
 
     .item strong {
