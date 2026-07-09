@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
 
 
   html {
@@ -39,7 +39,7 @@
 
     .intro-title {
         font-size: 35px;
-        font-weight: 600;
+        font-weight: 500;
     }
 
     .link-title {
@@ -47,7 +47,7 @@
         flex-direction: row;
         gap: 5px;
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 500;
         align-items: baseline;
     }
 
@@ -63,7 +63,7 @@
     .links a {
         text-decoration: none;
         color: #816040;
-        font-weight: 600;
+        font-weight: 500;
     }
 
     .links {
@@ -142,7 +142,7 @@
     }
     .section h3 {
         font-size: 16px;
-        font-weight: 600;
+        font-weight: 500;
         text-transform: uppercase;
     }
     .item {
@@ -172,7 +172,7 @@
 
     .item strong {
         display: block;
-        font-weight: 600;
+        font-weight: 500;
     }
     .item span {
         color: #777;
