@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
 
 
   html {
@@ -6,7 +6,7 @@
   }
 
   body {
-        font-family: 'Manrope', sans-serif;
+        font-family: 'Mukta', sans-serif;
         color: #3D3D3D;
         width: 100%;
         margin: 0;
@@ -47,7 +47,7 @@
         flex-direction: row;
         gap: 5px;
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 500;
         align-items: baseline;
     }
 
@@ -63,7 +63,7 @@
     .links a {
         text-decoration: none;
         color: #816040;
-        font-weight: 600;
+        font-weight: 500;
     }
 
     .links {
@@ -126,7 +126,7 @@
     .section-title {
       font-size: 16px;
       color: #A8907A;
-      font-weight: 700;
+      font-weight: 500;
     }
 
     .exp {
@@ -142,7 +142,7 @@
     }
     .section h3 {
         font-size: 16px;
-        font-weight: 600;
+        font-weight: 500;
         text-transform: uppercase;
     }
     .item {
@@ -151,7 +151,7 @@
     }
 
     .job {
-      font-weight: 600;
+      font-weight: 500;
     }
 
     .year, .city {
@@ -161,18 +161,18 @@
 
     .title {
       width: 20vw;
-      font-weight: 800;
+      font-weight: 600;
       min-width: 200px;
     }
 
     .title2 {
       width: 50vw;
-      font-weight: 600;
+      font-weight: 500;
     }
 
     .item strong {
         display: block;
-        font-weight: 600;
+        font-weight: 500;
     }
     .item span {
         color: #777;
