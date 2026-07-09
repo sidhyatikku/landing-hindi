@@ -8,3 +8,4 @@ bun.lockb
 
 # v0 preview tooling
 vercel.json
+server.js
