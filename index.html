@@ -7,32 +7,14 @@
       <link rel="shortcut icon" href="favi.png">
     <title>Sidhya Tikku</title>
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8WGNZWHQKE"></script>
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-C5R4DZPPN7"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        // GA4 config — enhanced measurement + page_view
-        gtag('config', 'G-8WGNZWHQKE', {
-          send_page_view: true,
-          page_title: document.title,
-          page_location: window.location.href,
-          // Enhanced measurement: scrolls, outbound clicks, site search, video, file downloads
-          enhanced_measurement_settings: {
-            scroll_events_enabled: true,
-            outbound_click_events_enabled: true,
-            file_download_events_enabled: true
-          }
-        });
-
-        // Set global user properties visible across all events
-        gtag('set', 'user_properties', {
-          site_language: navigator.language || 'unknown',
-          screen_resolution: window.screen.width + 'x' + window.screen.height,
-          color_scheme: window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light',
-          device_type: /Mobi|Android/i.test(navigator.userAgent) ? 'mobile' : 'desktop'
-        });
+        gtag('config', 'G-C5R4DZPPN7');
       </script>
 
       <!-- Microsoft Clarity -->
@@ -174,7 +156,7 @@
 
 <script>
   (function () {
-    var GA_ID = 'G-8WGNZWHQKE';
+    var GA_ID = 'G-C5R4DZPPN7';
     var pageStartTime = Date.now();
 
     // ------------------------------------------------------------------
